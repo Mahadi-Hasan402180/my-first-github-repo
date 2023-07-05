@@ -1,19 +1,10 @@
 div{
   
-    background-color: rgb(8, 8, 8);
-    margin: auto;
-    padding: 5px;
-    bottom: 2px;
+    background-color: rgb(198, 245, 8);
+    margin-bottom: 10px;
+    font-size: 20px;
+    padding:10px;
+  
+   
 }
 
-p{
-    color: rgb(236, 236, 239);
-    
-  }
-  h3{
-    color: red;
-    font-weight: bold;
-    font-size: larger;
-    font-style: italic;
-    font-family: initial;
-  }
